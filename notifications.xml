@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Indexing" />
+    <notification groupId="Package requirements" />
+    <notification groupId="Packaging" shouldLog="false" />
+  </component>
+</application>
