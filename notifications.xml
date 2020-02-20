@@ -1,7 +1,9 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Indexing" />
-    <notification groupId="Package requirements" />
     <notification groupId="Packaging" shouldLog="false" />
+    <notification groupId="Pipfile Watcher" displayType="STICKY_BALLOON" />
+    <notification groupId="Plugins AutoSwitch" />
+    <notification groupId="Plugins Suggestion" displayType="STICKY_BALLOON" shouldLog="false" />
   </component>
 </application>
