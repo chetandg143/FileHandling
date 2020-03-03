@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="1.png" type="PLAIN_TEXT" />
       <mapping pattern="logFile" type="PLAIN_TEXT" />
+      <mapping pattern="credentials_file" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
